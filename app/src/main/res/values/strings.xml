@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu primeiro app CCPANMCA</string>
+    <string name="dica_msg">Digite uma mensagem</string>
+    <string name="ok">ok</string>
+</resources>
